@@ -15,4 +15,4 @@
 
 ### How to Run
 To run the program, execute the provided Python script:<br>
-***python BMI__Cal.py***
+***python BMI__cal.py***
