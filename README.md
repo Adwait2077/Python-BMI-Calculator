@@ -15,4 +15,4 @@
 
 ### How to Run
 To run the program, execute the provided Python script:<br>
-***python bmi_calculator.py***
+***python BMI__Calc.py***
